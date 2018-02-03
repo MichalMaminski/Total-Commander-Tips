@@ -1,0 +1,8 @@
+;[HKEY_CLASSES_ROOT\Folder\shell] 
+;@="Total_Commander"
+
+[HKEY_CLASSES_ROOT\Folder\shell\Total_Commander] 
+@="Open in Total Commander"
+
+[HKEY_CLASSES_ROOT\Folder\shell\Total_Commander\command] 
+@="\"C:\\totalcmd\\TOTALCMD64.EXE\" /T \"%1\""
